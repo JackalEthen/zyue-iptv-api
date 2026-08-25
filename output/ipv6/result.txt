@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-24 20:51:43,https://hls-gateway.vpstv.net/streams/476879.m3u8
+2026-08-25 09:13:11,https://hls-gateway.vpstv.net/streams/476879.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
