@@ -1,7 +1,7 @@
 🕘️更新时间,#genre#
-2026-09-05 11:05:30,https://hls-gateway.vpstv.net/streams/476879.m3u8
+2026-09-05 16:31:42,https://hls-gateway.vpstv.net/streams/476879.m3u8
 
-📺央视频道,#genre#
+📺央视/卫视频道,#genre#
 CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
 CCTV-1,http://3501776.xyz:35455/gaoma/cctv1.m3u8
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -92,8 +92,6 @@ CCTV-17,https://hls-gateway.vpstv.net/streams/708820.m3u8
 CCTV-17,http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770510943&major_anchor_level=common&sign=dd29a839e4c1695baa854e62d1520175&t_id=037-20260201083542E2A9E7FA3B89F8A17BA8-arf6Qh&volcSecret=dd29a839e4c1695baa854e62d1520175&volcTime=1770510943
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695298859153752748.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771463708&major_anchor_level=common&sign=708998c737cbaa4a6c56a71ad9384156&t_id=037-202602120915076A7E8CC5831E48650F02-GFlq4b
 CCTV-17,https://t.freetv.fun/live/cctv17-3.m3u8
-
-📡卫视频道,#genre#
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,http://3501776.xyz:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
 广东卫视,http://lu.wqwqwq.sbs/itv/1000000005000265034.m3u8?cdn=ystenlive
